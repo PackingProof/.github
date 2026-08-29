@@ -21,7 +21,7 @@
 
 ## 选择版本
 
-电脑版和手机版功能一致，电脑端支持备份手机端的录像
+电脑版和手机版功能一致，电脑端支持备份手机端的录像。手机版同时支持 Android 与 iOS
 
 <a href="https://github.com/PackingProof/PackingProof-Desktop/releases/latest">
   <img src="https://img.shields.io/badge/下载-Windows%20版-245844?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIgMmg5djlIMlYyem0xMSAwaDl2OWgtOVYyek0yIDEzaDl2OUgydi05em0xMSAwaDl2OWgtOXYtOXoiLz48L3N2Zz4%3D&labelColor=183C30" height="48" alt="下载 Windows 版">
@@ -29,6 +29,10 @@
 
 <a href="https://github.com/PackingProof/PackingProof-Mobile/releases/latest">
   <img src="https://img.shields.io/badge/下载-Android%20版-D97745?style=for-the-badge&logo=android&logoColor=white&labelColor=A94F2F" height="48" alt="下载 Android 版">
+</a>
+
+<a href="https://testflight.apple.com/join/KR4qNs6t">
+  <img src="https://img.shields.io/badge/加入-iOS%20内测-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=111111" height="48" alt="加入 iOS 内测">
 </a>
 
 ## 软件界面
