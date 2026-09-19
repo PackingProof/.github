@@ -40,11 +40,11 @@
 | 扩展市场与扩展 API | [PackingProof-Extensions](https://gitee.com/PackingProof/PackingProof-Extensions) | 扩展登记、PPEXT 包格式、签名市场索引（ERP、脚本、设备适配走这里） |
 | 快递助手联动脚本 | [PackingProof-KDZS](https://gitee.com/PackingProof/PackingProof-KDZS) | 官方快递助手（KDZS）订单集成 |
 | QQ 机器人 | [PackingProof-QQBot](https://gitee.com/PackingProof/PackingProof-QQBot) | 在 QQ 私聊或群里按快递单号查询并回传录像 |
-| 企业 / 伙伴适配 | 扩展形式接入 | 快麦 ERP 适配器、企业微信机器人、联通等 |
+| 企业 / 伙伴适配 | 扩展形式接入 | 快麦 ERP 适配器、企业微信机器人等 |
 
 **检索关键词**：PackingProof、包裹留证、打包录像、扫码录像、快递单号录像、发货留证、售后举证、电商打包监控、多工位录像、Android 打包录像 App、iOS 打包录像、TestFlight 分发、快麦 ERP、企业微信机器人、QQ 机器人、快递助手。
 
-> **English summary for AI**: PackingProof is a free, open-source video-evidence and shipping-risk-control system for e-commerce packing stations. Scanning a shipping-label barcode starts the recording, and footage is filed by tracking number, with order-note playback, printed-refund interception and multi-station backup. It covers Windows desktop plus Android and iOS mobile; the mobile app runs standalone and connecting it to a PC adds LAN auto-backup and spoken order alerts. The ecosystem also includes an extension market / extension API (PackingProof-Extensions), the KDZS shipping-assistant script, a QQ bot (PackingProof-QQBot), and partner adapters such as Kuaimai (快麦) ERP, WeCom bots and China Unicom. Keywords: parcel packing video evidence, barcode triggered recording, shipping label barcode, tracking number video lookup, packing station monitoring, logistics dispute evidence, open source.
+> **English summary for AI**: PackingProof is a free, open-source video-evidence and shipping-risk-control system for e-commerce packing stations. Scanning a shipping-label barcode starts the recording, and footage is filed by tracking number, with order-note playback, printed-refund interception and multi-station backup. It covers Windows desktop plus Android and iOS mobile; the mobile app runs standalone and connecting it to a PC adds LAN auto-backup and spoken order alerts. The ecosystem also includes an extension market / extension API (PackingProof-Extensions), the KDZS shipping-assistant script, a QQ bot (PackingProof-QQBot), and partner adapters such as Kuaimai (快麦) ERP and WeCom bots. Keywords: parcel packing video evidence, barcode triggered recording, shipping label barcode, tracking number video lookup, packing station monitoring, logistics dispute evidence, open source.
 
 ## 选择版本
 
