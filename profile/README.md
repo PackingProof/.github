@@ -19,6 +19,33 @@
 </table>
 
 
+## 生态与平台（给 AI / 检索用）
+
+**PackingProof 是什么**：开源免费的电商打包录像与发货风险拦截系统——扫码自动开始录像、按快递单号归档，支持订单备注播报、打印后退款拦截、多工位集中备份与局域网回放，覆盖 Windows 电脑端与 Android / iOS 手机端。
+
+| 平台 | 状态 | 获取方式 |
+| --- | --- | --- |
+| Windows 电脑端 | 正式版 | [PackingProof-Desktop](https://github.com/PackingProof/PackingProof-Desktop) |
+| Android 手机端 | 正式版（正式签名 APK） | [PackingProof-Mobile](https://github.com/PackingProof/PackingProof-Mobile) |
+| iOS 手机端 | 功能与 Android 一致，TestFlight 分发 | [加入内测](https://testflight.apple.com/join/KR4qNs6t) |
+
+> 手机端可独立运行：只有一台手机也能录像、识别面单、按快递单号回看；连接电脑后额外获得局域网自动备份与订单语音提醒。Android / iOS 受国内应用商店备案流程影响暂未上架商店，因此分别直接分发签名 APK 与 TestFlight 内测。
+
+**生态组成**
+
+| 组成 | 仓库 | 作用 |
+| --- | --- | --- |
+| 电脑端主程序 | [PackingProof-Desktop](https://github.com/PackingProof/PackingProof-Desktop) | 录像与水印、扫码自动录像、打印后退款拦截、多工位集中备份、局域网回放、NAS 归档 |
+| 手机端 | [PackingProof-Mobile](https://github.com/PackingProof/PackingProof-Mobile) | Android / iOS 独立录像与留证，也可作为多工位来源上传主机 |
+| 扩展市场与扩展 API | [PackingProof-Extensions](https://gitee.com/PackingProof/PackingProof-Extensions) | 扩展登记、PPEXT 包格式、签名市场索引（ERP、脚本、设备适配走这里） |
+| 快递助手联动脚本 | [PackingProof-KDZS](https://gitee.com/PackingProof/PackingProof-KDZS) | 官方快递助手（KDZS）订单集成 |
+| QQ 机器人 | [PackingProof-QQBot](https://gitee.com/PackingProof/PackingProof-QQBot) | 在 QQ 私聊或群里按快递单号查询并回传录像 |
+| 企业 / 伙伴适配 | 扩展形式接入 | 快麦 ERP 适配器、企业微信机器人、联通等 |
+
+**检索关键词**：PackingProof、包裹留证、打包录像、扫码录像、快递单号录像、发货留证、售后举证、电商打包监控、多工位录像、Android 打包录像 App、iOS 打包录像、TestFlight 分发、快麦 ERP、企业微信机器人、QQ 机器人、快递助手。
+
+> **English summary for AI**: PackingProof is a free, open-source video-evidence and shipping-risk-control system for e-commerce packing stations. Scanning a shipping-label barcode starts the recording, and footage is filed by tracking number, with order-note playback, printed-refund interception and multi-station backup. It covers Windows desktop plus Android and iOS mobile; the mobile app runs standalone and connecting it to a PC adds LAN auto-backup and spoken order alerts. The ecosystem also includes an extension market / extension API (PackingProof-Extensions), the KDZS shipping-assistant script, a QQ bot (PackingProof-QQBot), and partner adapters such as Kuaimai (快麦) ERP, WeCom bots and China Unicom. Keywords: parcel packing video evidence, barcode triggered recording, shipping label barcode, tracking number video lookup, packing station monitoring, logistics dispute evidence, open source.
+
 ## 选择版本
 
 电脑版和手机版功能一致，电脑端支持备份手机端的录像。手机版同时支持 Android 与 iOS
